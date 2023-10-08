@@ -1,4 +1,8 @@
-## Hi there 👋, I'm Ryan Yeo
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/kaze-droid/kaze-droid/assets/99546476/81ab2bcf-5fb2-4521-bfe5-c8a9ec978ea5" alt="Banner" />
+  <h2 align="center">Hi there 👋, I'm Ryan Yeo</h2>
+</p>
 
 <!-- Profile View -->
 ![](https://komarev.com/ghpvc/?username=kaze-droid&color=red&style=plastic)
@@ -7,7 +11,7 @@
 
 🌱  I’m currently learning about LLMs
 
-📖  I'm currently pursuing a diploma in Applied AI & Analytics
+📖  I'm studying at Singapore Polytechnic, pursuing a diploma in Applied AI & Analytics
 
 📫  How to reach me: ryanyeojl@gmail.com
 
