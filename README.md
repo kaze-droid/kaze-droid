@@ -1,8 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/kaze-droid/kaze-droid/assets/99546476/81ab2bcf-5fb2-4521-bfe5-c8a9ec978ea5" alt="Banner" />
-  <h2 align="center">Hi there 👋, I'm Ryan Yeo</h2>
+  <a href="https://ryanyeo.vercel.app/" taget="_blank" ref="noreferrer">
+    <img src="https://user-images.githubusercontent.com/99546476/273451611-81ab2bcf-5fb2-4521-bfe5-c8a9ec978ea5.png" alt="Banner" >
+  </a>
 </p>
+
+<h2 align="center">Hi there 👋, I'm Ryan Yeo</h2>
 
 <!-- Profile View -->
 ![](https://komarev.com/ghpvc/?username=kaze-droid&color=red&style=plastic)
