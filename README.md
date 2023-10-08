@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://ryanyeo.vercel.app/" taget="_blank" ref="noreferrer">
+  <a href="https://ryanyeo.vercel.app/" target="_blank" ref="noreferrer">
     <img src="https://user-images.githubusercontent.com/99546476/273451611-81ab2bcf-5fb2-4521-bfe5-c8a9ec978ea5.png" alt="Banner" >
   </a>
 </p>
