@@ -71,5 +71,3 @@
 
 <!-- Most Used Languages -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaze-droid&theme=gruvbox&layout=compact&langs_count=5)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=26y2evkeqmx0xpjshnq111vea&cover_image=true&theme=default&show_offline=false&background_color=282828&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=26y2evkeqmx0xpjshnq111vea&redirect=true)
