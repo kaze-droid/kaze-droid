@@ -12,7 +12,7 @@
 
 <!-- 💻  My projects are available [here](https://ryanyeo.vercel.app/) -->
 
-🌱  I’m currently learning about LLMs
+🌱  I’m currently learning about Agentic Workflows
 
 📖  I'm studying at Singapore Polytechnic, pursuing a diploma in Applied AI & Analytics
 
